@@ -1,9 +1,17 @@
 # is310-coding-assignments
 
-Installed this list of tools: 
+# Init IS310 Homework
+
+## Proof of Installation 
 1. Python
-python.png
+
+![Python Installation](images/python.png)
 2. Git
-git.png
+
+![Git Installation](images/git.png)
 3. VSCode
-VSCode.png
+
+![VSCode Installation](images/VSCode.png)
+4. Hypothesis username
+
+mayabernstein
