@@ -1,15 +1,20 @@
-## American Football Maze 
+## **American Football Maze**
 Maya Bernstein
 ---
 ### What is this maze about?
-This maze will cover different aspects of American football to ultimately pinpoint a football player based on the corresponding passage's clues and such. 
+This maze will cover different aspects of American football to ultimately pinpoint a football player based on the corresponding passages' clues and instructions. 
 
 ### Instructions
-[Expand on this]
-Please first enter the entrace to start your journey to make through the maze. 
-For each door you enter, there will be clues and instructions on how to proceed. There may be a few tricks along the follow, so please avoid them the best that you can. 
+1. First start at the entrance directory of the maze.  
+2. From there you would have to locate the right NFL conference. 
+3. Next would be the divisons followed by the different teams and ultimately the players. 
+4. For each directory, please give the .txt files a read, especially the clues as they may come in handy. 
+5. Keep an eye on a secret clue that would be found near the end of the maze. 
 
 ### List of Commands
-[Expand on this]
+- cd (change and move to a directory)
+- ls (look at the list of contents of a directory)
+- ls -a or ls -Force (to find the hidden files)
+- cat (read files)
+- cd .. (to backtrack out of the current directory)
 
-### Any other information? 

@@ -3,4 +3,6 @@ Hi there! Welcome to the American Football Maze! 🏈
 This maze will put your basic football knowledge to the test to ultimately discover the different 
 avenues of football in describing what I think is a key football player growing up. 
 
-Please move your way to the Super Bowl door to determine which 
+To begin, there are two doors: AFC and NFC, both are the two NFL conferences that teams reside under. 
+
+Please choose wisely which door to enter and you may refer to any clues that are available to make a decision. 
