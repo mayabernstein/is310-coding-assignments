@@ -1,6 +1,7 @@
 ## **American Football Maze**
+
 Maya Bernstein
----
+
 ### What is this maze about?
 This maze will cover different aspects of American football to ultimately pinpoint a football player based on the corresponding passages' clues and instructions. 
 
