@@ -1,20 +1,11 @@
-# is310-coding-assignments
+## **IS310 Coding Assignments**
 
-# Init IS310 Homework
+### About This Repo
+This repository will contain all of my assignments for the IS310 class I am taking during the Spring 2026 semester.
 
-## Proof of Installation 
-1. Python
+### My Assignments
+- init_is310
+- command-line-maze
 
-![Python Installation](images/python.png)
-
-2. Git
-
-![Git Installation](images/git.png)
-
-3. VSCode
-
-![VSCode Installation](images/VSCode.png)
-
-4. Hypothesis username
-
-mayabernstein
+### Main Resource: Course Website
+https://cultureasdata-uiuc.github.io/is310-spring-2026/ 
