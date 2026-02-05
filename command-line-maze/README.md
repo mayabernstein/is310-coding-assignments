@@ -19,3 +19,5 @@ This maze will cover different aspects of American football to ultimately pinpoi
 - cat (read files)
 - cd .. (to backtrack out of the current directory)
 
+Note: For Windows users, before starting the maze, please run 
+.\hide-dotfiles.ps1 in PowerShell so that dotfiles remain hidden unless performing ls -a or ls -Force to make them visible. 
