@@ -22,3 +22,8 @@ This maze will cover different aspects of American football to ultimately pinpoi
 
 Note: For Windows users, before starting the maze, please run 
 .\hide-dotfiles.ps1 in PowerShell so that dotfiles remain hidden unless performing ls -a or ls -Force to make them visible. 
+
+If you are receiving errors when performing the command above, try this:
+
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+.\hide-dotfiles.ps1
