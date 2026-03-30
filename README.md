@@ -9,6 +9,7 @@ This repository will contain all of my assignments for the IS310 class I am taki
 - source-and-style
 - python-libraries
 - web-scraping
+- api-getting-dataa
 
 ### Main Resource: Course Website
 https://cultureasdata-uiuc.github.io/is310-spring-2026/ 
