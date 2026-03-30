@@ -1,0 +1,1695 @@
+[
+  {
+    "completeness": 10,
+    "country": [
+      "Europe"
+    ],
+    "dataProvider": [
+      "TV3 Catalan Television"
+    ],
+    "dcDescription": [
+      "TVC has set up a FlyCam for the retransmission of Spanish league football games. The FlyCam makes it possible to capture overhead shots in motion and other perspectives of the ball in play.",
+      "Original language summary:  TVC ha instal·lat una una càmera voladora per la retransmissió dels partits de la lliga espanyola. Amb la fly-cam es poden obtenir plans zenitals en moviment i altres perspectives de les millors jugades.",
+      "Extended description: T&egrave;cnics instal&middot;lant fly-cam al Camp Nou GR&Agrave;FIC recorregut que far&agrave; la c&agrave;mera d'una banda a l'altre del camp DP/TRA c&agrave;mera voladora despla&ccedil;ant-se a trav&eacute;s de cable DP/PD fly-cam Realitzadors seguint imatges a monitors DP/P imatges d'esports obtingudes amb c&agrave;mera voladora"
+    ],
+    "dcDescriptionLangAware": {
+      "en": [
+        "TVC has set up a FlyCam for the retransmission of Spanish league football games. The FlyCam makes it possible to capture overhead shots in motion and other perspectives of the ball in play."
+      ],
+      "ca": [
+        "Original language summary:  TVC ha instal·lat una una càmera voladora per la retransmissió dels partits de la lliga espanyola. Amb la fly-cam es poden obtenir plans zenitals en moviment i altres perspectives de les millors jugades.",
+        "Extended description: T&egrave;cnics instal&middot;lant fly-cam al Camp Nou GR&Agrave;FIC recorregut que far&agrave; la c&agrave;mera d'una banda a l'altre del camp DP/TRA c&agrave;mera voladora despla&ccedil;ant-se a trav&eacute;s de cable DP/PD fly-cam Realitzadors seguint imatges a monitors DP/P imatges d'esports obtingudes amb c&agrave;mera voladora"
+      ]
+    },
+    "dcLanguage": [
+      "cat",
+      "Catalan",
+      "Valencian"
+    ],
+    "dcLanguageLangAware": {
+      "def": [
+        "cat"
+      ],
+      "en": [
+        "Catalan",
+        "Valencian"
+      ]
+    },
+    "dcTitleLangAware": {
+      "en": [
+        "FOOTBALL: TVC SETS UP A FLYCAM AT NOU CAMP TO TRANSMIT BARÇA-REAL MADRID GAME"
+      ],
+      "ca": [
+        "FUTBOL: TVC INSTAL·LA UNA FLY-CAM AL CAMP NOU PER LA TRANSMISSIÓ DEL PARTIT BARÇA - REAL MADRID"
+      ]
+    },
+    "edmConcept": [
+      "http://data.europeana.eu/concept/2255",
+      "http://data.europeana.eu/concept/114",
+      "http://thesaurus.euscreen.eu/EUscreenXL/v1/987"
+    ],
+    "edmConceptLabel": [
+      {
+        "def": "Spange (Schmuck)"
+      },
+      {
+        "def": "Sport"
+      },
+      {
+        "def": "Fußball"
+      },
+      {
+        "def": "Spännen"
+      },
+      {
+        "def": "Sport"
+      },
+      {
+        "def": "Fotboll"
+      },
+      {
+        "def": "Pregadeira (joalharia)"
+      },
+      {
+        "def": "Desporto"
+      },
+      {
+        "def": "Futebol"
+      },
+      {
+        "def": "Κλιπ (κόσμημα)"
+      },
+      {
+        "def": "Αθλητισμός"
+      },
+      {
+        "def": "Ποδόσφαιρο"
+      },
+      {
+        "def": "Clip"
+      },
+      {
+        "def": "Sport"
+      },
+      {
+        "def": "Football"
+      },
+      {
+        "def": "Sponka"
+      },
+      {
+        "def": "Šport"
+      },
+      {
+        "def": "Fermaglio"
+      },
+      {
+        "def": "Sport"
+      },
+      {
+        "def": "Calcio"
+      },
+      {
+        "def": "Attache"
+      },
+      {
+        "def": "Sport"
+      },
+      {
+        "def": "Football"
+      },
+      {
+        "def": "Clip (sieraad)"
+      },
+      {
+        "def": "Sport"
+      },
+      {
+        "def": "Voetbal"
+      },
+      {
+        "def": "Clip (joya)"
+      },
+      {
+        "def": "Deporte"
+      },
+      {
+        "def": "Urheilu"
+      },
+      {
+        "def": "Спорт"
+      },
+      {
+        "def": "Спорт"
+      },
+      {
+        "def": "Sportas"
+      },
+      {
+        "def": "Futbolas"
+      },
+      {
+        "def": "Sport"
+      },
+      {
+        "def": "Sports"
+      },
+      {
+        "def": "Sport"
+      },
+      {
+        "def": "labdarúgás"
+      },
+      {
+        "def": "Šport"
+      },
+      {
+        "def": "Spórt"
+      },
+      {
+        "def": "Esport"
+      },
+      {
+        "def": "Futbol"
+      },
+      {
+        "def": "Sport"
+      },
+      {
+        "def": "Sport"
+      },
+      {
+        "def": "Sport"
+      },
+      {
+        "def": "Fotbal, kopaná"
+      },
+      {
+        "def": "Kirol"
+      },
+      {
+        "def": "Sport"
+      },
+      {
+        "def": "Piłka nożna"
+      },
+      {
+        "def": "Sport"
+      },
+      {
+        "def": "Fodbold"
+      },
+      {
+        "def": "Sport"
+      },
+      {
+        "def": "Fotbal"
+      }
+    ],
+    "edmConceptPrefLabelLangAware": {
+      "de": [
+        "Fußball",
+        "Sport",
+        "Spange (Schmuck)"
+      ],
+      "fi": [
+        "Urheilu"
+      ],
+      "ru": [
+        "Спорт"
+      ],
+      "pt": [
+        "Futebol",
+        "Pregadeira (joalharia)",
+        "Desporto"
+      ],
+      "bg": [
+        "Спорт"
+      ],
+      "lt": [
+        "Sportas",
+        "Futbolas"
+      ],
+      "hr": [
+        "Sport"
+      ],
+      "lv": [
+        "Sports"
+      ],
+      "fr": [
+        "Sport",
+        "Attache",
+        "Football"
+      ],
+      "hu": [
+        "Sport",
+        "labdarúgás"
+      ],
+      "sk": [
+        "Šport"
+      ],
+      "sl": [
+        "Sponka",
+        "Šport"
+      ],
+      "ga": [
+        "Spórt"
+      ],
+      "ca": [
+        "Futbol",
+        "Esport"
+      ],
+      "sv": [
+        "Sport",
+        "Spännen",
+        "Fotboll"
+      ],
+      "el": [
+        "Κλιπ (κόσμημα)",
+        "Αθλητισμός",
+        "Ποδόσφαιρο"
+      ],
+      "mt": [
+        "Sport"
+      ],
+      "en": [
+        "Clip",
+        "Sport",
+        "Football"
+      ],
+      "it": [
+        "Sport",
+        "Calcio",
+        "Fermaglio"
+      ],
+      "es": [
+        "Clip (joya)",
+        "Deporte"
+      ],
+      "et": [
+        "Sport"
+      ],
+      "cs": [
+        "Sport",
+        "Fotbal, kopaná"
+      ],
+      "eu": [
+        "Kirol"
+      ],
+      "pl": [
+        "Sport",
+        "Piłka nożna"
+      ],
+      "da": [
+        "Sport",
+        "Fodbold"
+      ],
+      "ro": [
+        "Sport",
+        "Fotbal"
+      ],
+      "nl": [
+        "Sport",
+        "Voetbal",
+        "Clip (sieraad)"
+      ]
+    },
+    "edmDatasetName": [
+      "2051943_Ag_EU_OldEUscreen_1025"
+    ],
+    "edmIsShownAt": [
+      "https://www.euscreen.eu/item.html?id=EUS_61C7ED6F47F94FA0A9AED1D8B54B0211"
+    ],
+    "edmIsShownBy": [
+      "https://www.euscreen.eu/item.html?id=EUS_61C7ED6F47F94FA0A9AED1D8B54B0211"
+    ],
+    "edmPreview": [
+      "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fimages3.noterik.com%2Fdomain%2Feuscreenxl%2Fuser%2Feu_tvc%2Fvideo%2FEUS_61C7ED6F47F94FA0A9AED1D8B54B0211%2Fimage.jpg&type=VIDEO"
+    ],
+    "edmTimespanLabel": [
+      {
+        "def": "2006-03-31"
+      },
+      {
+        "def": "2006"
+      },
+      {
+        "def": "21. Jahrhundert"
+      },
+      {
+        "def": "2000-luku"
+      },
+      {
+        "def": "XXI век"
+      },
+      {
+        "def": "Século XXI"
+      },
+      {
+        "def": "21 век"
+      },
+      {
+        "def": "XXI amžius"
+      },
+      {
+        "def": "21. stoljeće"
+      },
+      {
+        "def": "21. gadsimts"
+      },
+      {
+        "def": "XXIe siècle"
+      },
+      {
+        "def": "21. század"
+      },
+      {
+        "def": "21. storočie"
+      },
+      {
+        "def": "21. stoletje"
+      },
+      {
+        "def": "21ú haois"
+      },
+      {
+        "def": "Segle XXI"
+      },
+      {
+        "def": "2000-talet"
+      },
+      {
+        "def": "21ος αιώνας"
+      },
+      {
+        "def": "21st century"
+      },
+      {
+        "def": "XXI secolo"
+      },
+      {
+        "def": "Siglo XXI"
+      },
+      {
+        "def": "21. sajand"
+      },
+      {
+        "def": "21. století"
+      },
+      {
+        "def": "XXI. mendea"
+      },
+      {
+        "def": "XXI wiek"
+      },
+      {
+        "def": "21. århundrede"
+      },
+      {
+        "def": "Secolul al XXI-lea"
+      },
+      {
+        "def": "21e eeuw"
+      },
+      {
+        "def": "http://www.wikidata.org/entity/Q6939"
+      },
+      {
+        "def": "http://data.culture.fr/thesaurus/resource/ark:/67717/T4-46"
+      },
+      {
+        "def": "http://id.loc.gov/authorities/names/sh85139024"
+      },
+      {
+        "def": "http://data.bnf.fr/ark:/12148/cb11930812p"
+      },
+      {
+        "def": "http://id.nlm.nih.gov/mesh/D049674"
+      },
+      {
+        "def": "https://www.freebase.com/m/08b43"
+      },
+      {
+        "def": "https://g.co/kg/m/08b43"
+      },
+      {
+        "def": "http://id.nlm.nih.gov/mesh/K01.400.504.984"
+      },
+      {
+        "def": "http://vocab.getty.edu/aat/300404515"
+      },
+      {
+        "def": "http://id.worldcat.org/fast/1159816"
+      },
+      {
+        "def": "http://babelnet.org/rdf/s01157225n"
+      },
+      {
+        "def": "http://dbpedia.org/resource/21st_century"
+      }
+    ],
+    "edmTimespanLabelLangAware": {
+      "de": [
+        "21. Jahrhundert"
+      ],
+      "fi": [
+        "2000-luku"
+      ],
+      "ru": [
+        "XXI век"
+      ],
+      "pt": [
+        "Século XXI"
+      ],
+      "bg": [
+        "21 век"
+      ],
+      "lt": [
+        "XXI amžius"
+      ],
+      "hr": [
+        "21. stoljeće"
+      ],
+      "lv": [
+        "21. gadsimts"
+      ],
+      "fr": [
+        "XXIe siècle"
+      ],
+      "hu": [
+        "21. század"
+      ],
+      "sk": [
+        "21. storočie"
+      ],
+      "sl": [
+        "21. stoletje"
+      ],
+      "ga": [
+        "21ú haois"
+      ],
+      "ca": [
+        "Segle XXI"
+      ],
+      "sv": [
+        "2000-talet"
+      ],
+      "el": [
+        "21ος αιώνας"
+      ],
+      "en": [
+        "21st century"
+      ],
+      "it": [
+        "XXI secolo"
+      ],
+      "es": [
+        "Siglo XXI"
+      ],
+      "et": [
+        "21. sajand"
+      ],
+      "cs": [
+        "21. století"
+      ],
+      "eu": [
+        "XXI. mendea"
+      ],
+      "zxx": [
+        "2006-03-31",
+        "2006"
+      ],
+      "pl": [
+        "XXI wiek"
+      ],
+      "da": [
+        "21. århundrede"
+      ],
+      "ro": [
+        "Secolul al XXI-lea"
+      ],
+      "nl": [
+        "21e eeuw"
+      ]
+    },
+    "europeanaCollectionName": [
+      "2051943_Ag_EU_OldEUscreen_1025"
+    ],
+    "europeanaCompleteness": 10,
+    "guid": "https://www.europeana.eu/item/2051943/data_euscreenXL_EUS_61C7ED6F47F94FA0A9AED1D8B54B0211?utm_source=api&utm_medium=api&utm_campaign=uvexassa",
+    "id": "/2051943/data_euscreenXL_EUS_61C7ED6F47F94FA0A9AED1D8B54B0211",
+    "index": 0,
+    "language": [
+      "en"
+    ],
+    "link": "https://api.europeana.eu/record/2051943/data_euscreenXL_EUS_61C7ED6F47F94FA0A9AED1D8B54B0211.json?wskey=uvexassa",
+    "previewNoDistribute": false,
+    "provider": [
+      "EUscreen"
+    ],
+    "rights": [
+      "http://rightsstatements.org/vocab/InC/1.0/"
+    ],
+    "score": 32.177887,
+    "timestamp": 1752060923581,
+    "timestamp_created": "2023-07-27T14:19:15.224Z",
+    "timestamp_created_epoch": 1690467555224,
+    "timestamp_update": "2024-10-08T11:28:21.225Z",
+    "timestamp_update_epoch": 1728386901225,
+    "title": [
+      "FOOTBALL: TVC SETS UP A FLYCAM AT NOU CAMP TO TRANSMIT BARÇA-REAL MADRID GAME",
+      "FUTBOL: TVC INSTAL·LA UNA FLY-CAM AL CAMP NOU PER LA TRANSMISSIÓ DEL PARTIT BARÇA - REAL MADRID",
+      "Clip title:",
+      "SERIES TITLE: MIXED ZONE",
+      "ZONA MIXTA"
+    ],
+    "type": "VIDEO",
+    "ugc": [
+      false
+    ],
+    "year": [
+      "2006"
+    ]
+  },
+  {
+    "completeness": 10,
+    "country": [
+      "Spain"
+    ],
+    "dataProvider": [
+      "TV3 Catalan Television"
+    ],
+    "dcDescription": [
+      "The Professional Football League has expressed its position on the King’s Cup final If the whistle was repeated to the Spanish anthem, Javier Tebas would be in favour of suspending the party."
+    ],
+    "dcDescriptionLangAware": {
+      "en": [
+        "The Professional Football League has expressed its position on the King’s Cup final If the whistle was repeated to the Spanish anthem, Javier Tebas would be in favour of suspending the party."
+      ]
+    },
+    "dcLanguage": [
+      "Catalan; Valencian"
+    ],
+    "dcLanguageLangAware": {
+      "def": [
+        "Catalan; Valencian"
+      ]
+    },
+    "dcTitleLangAware": {
+      "def": [
+        "Telenotícies"
+      ],
+      "en": [
+        "Thebes, supporter of suspending the Cup final if they whistle the anthem"
+      ]
+    },
+    "edmDatasetName": [
+      "2051922_TV3_Television_of_Catalonia"
+    ],
+    "edmIsShownAt": [
+      "http://www.ccma.cat/tv3/alacarta/programa/titol/video/5482872/"
+    ],
+    "edmIsShownBy": [
+      "http://www.ccma.cat/tv3/alacarta/programa/titol/video/5482872/"
+    ],
+    "edmPreview": [
+      "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fstatics.ccma.cat%2Fmultimedia%2Fjpg%2F1%2F5%2F1426170061051.jpg&type=VIDEO"
+    ],
+    "edmTimespanLabel": [
+      {
+        "def": "2015"
+      },
+      {
+        "def": "2015-03-12"
+      }
+    ],
+    "edmTimespanLabelLangAware": {
+      "zxx": [
+        "2015",
+        "2015-03-12"
+      ]
+    },
+    "europeanaCollectionName": [
+      "2051922_TV3_Television_of_Catalonia"
+    ],
+    "europeanaCompleteness": 10,
+    "guid": "https://www.europeana.eu/item/2051922/data_euscreenXL_5482872?utm_source=api&utm_medium=api&utm_campaign=uvexassa",
+    "id": "/2051922/data_euscreenXL_5482872",
+    "index": 0,
+    "language": [
+      "ca"
+    ],
+    "link": "https://api.europeana.eu/record/2051922/data_euscreenXL_5482872.json?wskey=uvexassa",
+    "previewNoDistribute": false,
+    "provider": [
+      "EUscreen"
+    ],
+    "rights": [
+      "http://rightsstatements.org/vocab/InC/1.0/"
+    ],
+    "score": 29.363134,
+    "timestamp": 1752046373243,
+    "timestamp_created": "2015-12-11T08:38:13.191Z",
+    "timestamp_created_epoch": 1449823093191,
+    "timestamp_update": "2021-12-03T08:36:11.538Z",
+    "timestamp_update_epoch": 1638520571538,
+    "title": [
+      "Thebes, supporter of suspending the Cup final if they whistle the anthem",
+      "Telenotícies"
+    ],
+    "type": "VIDEO",
+    "ugc": [
+      false
+    ],
+    "year": [
+      "2015"
+    ]
+  },
+  {
+    "completeness": 10,
+    "country": [
+      "Spain"
+    ],
+    "dataProvider": [
+      "TV3 Catalan Television"
+    ],
+    "dcDescription": [
+      "Taking the break of the league for the games of selections, Jair Domínguez tells us what he thinks of the Spanish football team."
+    ],
+    "dcDescriptionLangAware": {
+      "en": [
+        "Taking the break of the league for the games of selections, Jair Domínguez tells us what he thinks of the Spanish football team."
+      ]
+    },
+    "dcLanguage": [
+      "Catalan; Valencian"
+    ],
+    "dcLanguageLangAware": {
+      "def": [
+        "Catalan; Valencian"
+      ]
+    },
+    "dcTitleLangAware": {
+      "def": [
+        "Crackòvia"
+      ],
+      "en": [
+        "Crackòvia: Jair Domínguez and the Spanish national team"
+      ]
+    },
+    "edmDatasetName": [
+      "2051922_TV3_Television_of_Catalonia"
+    ],
+    "edmIsShownAt": [
+      "http://www.ccma.cat/tv3/alacarta/programa/titol/video/5281251/"
+    ],
+    "edmIsShownBy": [
+      "http://www.ccma.cat/tv3/alacarta/programa/titol/video/5281251/"
+    ],
+    "edmPreview": [
+      "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fstatics.ccma.cat%2Fmultimedia%2Fjpg%2F9%2F6%2F1413296173869.jpg&type=VIDEO"
+    ],
+    "edmTimespanLabel": [
+      {
+        "def": "2014"
+      },
+      {
+        "def": "2014-10-14"
+      }
+    ],
+    "edmTimespanLabelLangAware": {
+      "zxx": [
+        "2014",
+        "2014-10-14"
+      ]
+    },
+    "europeanaCollectionName": [
+      "2051922_TV3_Television_of_Catalonia"
+    ],
+    "europeanaCompleteness": 10,
+    "guid": "https://www.europeana.eu/item/2051922/data_euscreenXL_5281251?utm_source=api&utm_medium=api&utm_campaign=uvexassa",
+    "id": "/2051922/data_euscreenXL_5281251",
+    "index": 0,
+    "language": [
+      "ca"
+    ],
+    "link": "https://api.europeana.eu/record/2051922/data_euscreenXL_5281251.json?wskey=uvexassa",
+    "previewNoDistribute": false,
+    "provider": [
+      "EUscreen"
+    ],
+    "rights": [
+      "http://rightsstatements.org/vocab/InC/1.0/"
+    ],
+    "score": 65.56039,
+    "timestamp": 1752046316030,
+    "timestamp_created": "2015-12-11T08:35:45.670Z",
+    "timestamp_created_epoch": 1449822945670,
+    "timestamp_update": "2021-12-03T08:36:11.538Z",
+    "timestamp_update_epoch": 1638520571538,
+    "title": [
+      "Crackòvia: Jair Domínguez and the Spanish national team",
+      "Crackòvia"
+    ],
+    "type": "VIDEO",
+    "ugc": [
+      false
+    ],
+    "year": [
+      "2014"
+    ]
+  },
+  {
+    "completeness": 10,
+    "country": [
+      "Spain"
+    ],
+    "dataProvider": [
+      "TV3 Catalan Television"
+    ],
+    "dcDescription": [
+      "The president of the organisation that organises the league, Javier Tebas, did not want to speak until the Spanish Football Federation had spoken out. Today he spoke and explained the decision to play with 22 teams."
+    ],
+    "dcDescriptionLangAware": {
+      "en": [
+        "The president of the organisation that organises the league, Javier Tebas, did not want to speak until the Spanish Football Federation had spoken out. Today he spoke and explained the decision to play with 22 teams."
+      ]
+    },
+    "dcLanguage": [
+      "Catalan; Valencian"
+    ],
+    "dcLanguageLangAware": {
+      "def": [
+        "Catalan; Valencian"
+      ]
+    },
+    "dcTitleLangAware": {
+      "def": [
+        "Telenotícies"
+      ],
+      "en": [
+        "What about the Second League?"
+      ]
+    },
+    "edmDatasetName": [
+      "2051922_TV3_Television_of_Catalonia"
+    ],
+    "edmIsShownAt": [
+      "http://www.ccma.cat/tv3/alacarta/programa/titol/video/5211834/"
+    ],
+    "edmIsShownBy": [
+      "http://www.ccma.cat/tv3/alacarta/programa/titol/video/5211834/"
+    ],
+    "edmPreview": [
+      "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fstatics.ccma.cat%2Fmultimedia%2Fjpg%2F7%2F4%2F1408454823647.jpg&type=VIDEO"
+    ],
+    "edmTimespanLabel": [
+      {
+        "def": "2014"
+      },
+      {
+        "def": "2014-08-19"
+      }
+    ],
+    "edmTimespanLabelLangAware": {
+      "zxx": [
+        "2014",
+        "2014-08-19"
+      ]
+    },
+    "europeanaCollectionName": [
+      "2051922_TV3_Television_of_Catalonia"
+    ],
+    "europeanaCompleteness": 10,
+    "guid": "https://www.europeana.eu/item/2051922/data_euscreenXL_5211834?utm_source=api&utm_medium=api&utm_campaign=uvexassa",
+    "id": "/2051922/data_euscreenXL_5211834",
+    "index": 0,
+    "language": [
+      "ca"
+    ],
+    "link": "https://api.europeana.eu/record/2051922/data_euscreenXL_5211834.json?wskey=uvexassa",
+    "previewNoDistribute": false,
+    "provider": [
+      "EUscreen"
+    ],
+    "rights": [
+      "http://rightsstatements.org/vocab/InC/1.0/"
+    ],
+    "score": 76.181625,
+    "timestamp": 1752046323934,
+    "timestamp_created": "2015-12-11T08:35:07.514Z",
+    "timestamp_created_epoch": 1449822907514,
+    "timestamp_update": "2021-12-03T08:36:11.538Z",
+    "timestamp_update_epoch": 1638520571538,
+    "title": [
+      "What about the Second League?",
+      "Telenotícies"
+    ],
+    "type": "VIDEO",
+    "ugc": [
+      false
+    ],
+    "year": [
+      "2014"
+    ]
+  },
+  {
+    "completeness": 10,
+    "country": [
+      "Spain"
+    ],
+    "dataProvider": [
+      "TV3 Catalan Television"
+    ],
+    "dcDescription": [
+      "For the first time, two German teams will play the Champions League final, a success that has behind a model of economic efficiency. Stadiums crowded thanks to cheaper entries, less signings and more campus And above all, don’ t stretch your arm more than your sleeve. Nothing to do, then, with what most Spanish football clubs do"
+    ],
+    "dcDescriptionLangAware": {
+      "en": [
+        "For the first time, two German teams will play the Champions League final, a success that has behind a model of economic efficiency. Stadiums crowded thanks to cheaper entries, less signings and more campus And above all, don’ t stretch your arm more than your sleeve. Nothing to do, then, with what most Spanish football clubs do"
+      ]
+    },
+    "dcLanguage": [
+      "Catalan; Valencian"
+    ],
+    "dcLanguageLangAware": {
+      "def": [
+        "Catalan; Valencian"
+      ]
+    },
+    "dcTitleLangAware": {
+      "def": [
+        "Valor afegit"
+      ],
+      "en": [
+        "Value added: German football, efficient football"
+      ]
+    },
+    "edmConcept": [
+      "http://data.europeana.eu/concept/119"
+    ],
+    "edmConceptLabel": [
+      {
+        "def": "Wirtschaftswissenschaft"
+      },
+      {
+        "def": "Taloustiede"
+      },
+      {
+        "def": "Экономика"
+      },
+      {
+        "def": "Economia"
+      },
+      {
+        "def": "Икономика"
+      },
+      {
+        "def": "Ekonomika"
+      },
+      {
+        "def": "Ekonomija"
+      },
+      {
+        "def": "Ekonomika"
+      },
+      {
+        "def": "Économie"
+      },
+      {
+        "def": "Közgazdaság-tudomány"
+      },
+      {
+        "def": "Všeobecná ekonomická teória"
+      },
+      {
+        "def": "Ekonomija"
+      },
+      {
+        "def": "Eacnamaíocht"
+      },
+      {
+        "def": "Economia"
+      },
+      {
+        "def": "Nationalekonomi"
+      },
+      {
+        "def": "Οικονομικά"
+      },
+      {
+        "def": "Ekonomija"
+      },
+      {
+        "def": "Economics"
+      },
+      {
+        "def": "Economia"
+      },
+      {
+        "def": "Economía"
+      },
+      {
+        "def": "Majandusteadus"
+      },
+      {
+        "def": "Ekonomie"
+      },
+      {
+        "def": "Ekonomia"
+      },
+      {
+        "def": "Ekonomia"
+      },
+      {
+        "def": "Økonomi"
+      },
+      {
+        "def": "Economie"
+      },
+      {
+        "def": "Economie"
+      }
+    ],
+    "edmConceptPrefLabelLangAware": {
+      "de": [
+        "Wirtschaftswissenschaft"
+      ],
+      "fi": [
+        "Taloustiede"
+      ],
+      "ru": [
+        "Экономика"
+      ],
+      "pt": [
+        "Economia"
+      ],
+      "bg": [
+        "Икономика"
+      ],
+      "lt": [
+        "Ekonomika"
+      ],
+      "hr": [
+        "Ekonomija"
+      ],
+      "lv": [
+        "Ekonomika"
+      ],
+      "fr": [
+        "Économie"
+      ],
+      "hu": [
+        "Közgazdaság-tudomány"
+      ],
+      "sk": [
+        "Všeobecná ekonomická teória"
+      ],
+      "sl": [
+        "Ekonomija"
+      ],
+      "ga": [
+        "Eacnamaíocht"
+      ],
+      "ca": [
+        "Economia"
+      ],
+      "sv": [
+        "Nationalekonomi"
+      ],
+      "el": [
+        "Οικονομικά"
+      ],
+      "mt": [
+        "Ekonomija"
+      ],
+      "en": [
+        "Economics"
+      ],
+      "it": [
+        "Economia"
+      ],
+      "es": [
+        "Economía"
+      ],
+      "et": [
+        "Majandusteadus"
+      ],
+      "cs": [
+        "Ekonomie"
+      ],
+      "eu": [
+        "Ekonomia"
+      ],
+      "pl": [
+        "Ekonomia"
+      ],
+      "da": [
+        "Økonomi"
+      ],
+      "ro": [
+        "Economie"
+      ],
+      "nl": [
+        "Economie"
+      ]
+    },
+    "edmDatasetName": [
+      "2051922_TV3_Television_of_Catalonia"
+    ],
+    "edmIsShownAt": [
+      "http://www.ccma.cat/tv3/alacarta/programa/titol/video/4587431/"
+    ],
+    "edmIsShownBy": [
+      "http://www.ccma.cat/tv3/alacarta/programa/titol/video/4587431/"
+    ],
+    "edmPreview": [
+      "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fstatics.ccma.cat%2Fmultimedia%2Fjpg%2F3%2F6%2F1369387755663.jpg&type=VIDEO"
+    ],
+    "edmTimespanLabel": [
+      {
+        "def": "2013"
+      },
+      {
+        "def": "2013-05-22"
+      }
+    ],
+    "edmTimespanLabelLangAware": {
+      "zxx": [
+        "2013",
+        "2013-05-22"
+      ]
+    },
+    "europeanaCollectionName": [
+      "2051922_TV3_Television_of_Catalonia"
+    ],
+    "europeanaCompleteness": 10,
+    "guid": "https://www.europeana.eu/item/2051922/data_euscreenXL_4587431?utm_source=api&utm_medium=api&utm_campaign=uvexassa",
+    "id": "/2051922/data_euscreenXL_4587431",
+    "index": 0,
+    "language": [
+      "ca"
+    ],
+    "link": "https://api.europeana.eu/record/2051922/data_euscreenXL_4587431.json?wskey=uvexassa",
+    "previewNoDistribute": false,
+    "provider": [
+      "EUscreen"
+    ],
+    "rights": [
+      "http://rightsstatements.org/vocab/InC/1.0/"
+    ],
+    "score": 81.1737,
+    "timestamp": 1752046255421,
+    "timestamp_created": "2015-12-11T08:30:04.265Z",
+    "timestamp_created_epoch": 1449822604265,
+    "timestamp_update": "2021-12-03T08:36:11.538Z",
+    "timestamp_update_epoch": 1638520571538,
+    "title": [
+      "Valor afegit",
+      "Value added: German football, efficient football"
+    ],
+    "type": "VIDEO",
+    "ugc": [
+      false
+    ],
+    "year": [
+      "2013"
+    ]
+  },
+  {
+    "completeness": 10,
+    "country": [
+      "Spain"
+    ],
+    "dataProvider": [
+      "TV3 Catalan Television"
+    ],
+    "dcDescription": [
+      "That the finances of Spanish clubs are a real disaster is no secret Most have a deficit that makes them shake, and debts to the Treasury and Social Security accumulate, waiting for a miracle. The magic wand could come from the regulations approved by the Professional Football League and the Sports Council."
+    ],
+    "dcDescriptionLangAware": {
+      "en": [
+        "That the finances of Spanish clubs are a real disaster is no secret Most have a deficit that makes them shake, and debts to the Treasury and Social Security accumulate, waiting for a miracle. The magic wand could come from the regulations approved by the Professional Football League and the Sports Council."
+      ]
+    },
+    "dcLanguage": [
+      "Catalan; Valencian"
+    ],
+    "dcLanguageLangAware": {
+      "def": [
+        "Catalan; Valencian"
+      ]
+    },
+    "dcTitleLangAware": {
+      "def": [
+        "Telenotícies"
+      ],
+      "en": [
+        "More control and more rigour"
+      ]
+    },
+    "edmDatasetName": [
+      "2051922_TV3_Television_of_Catalonia"
+    ],
+    "edmIsShownAt": [
+      "http://www.ccma.cat/tv3/alacarta/programa/titol/video/4444131/"
+    ],
+    "edmIsShownBy": [
+      "http://www.ccma.cat/tv3/alacarta/programa/titol/video/4444131/"
+    ],
+    "edmPreview": [
+      "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fstatics.ccma.cat%2Fmultimedia%2Fjpg%2F6%2F0%2F1359581267506.jpg&type=VIDEO"
+    ],
+    "edmTimespanLabel": [
+      {
+        "def": "2013-01-30"
+      },
+      {
+        "def": "2013"
+      }
+    ],
+    "edmTimespanLabelLangAware": {
+      "zxx": [
+        "2013-01-30",
+        "2013"
+      ]
+    },
+    "europeanaCollectionName": [
+      "2051922_TV3_Television_of_Catalonia"
+    ],
+    "europeanaCompleteness": 10,
+    "guid": "https://www.europeana.eu/item/2051922/data_euscreenXL_4444131?utm_source=api&utm_medium=api&utm_campaign=uvexassa",
+    "id": "/2051922/data_euscreenXL_4444131",
+    "index": 0,
+    "language": [
+      "ca"
+    ],
+    "link": "https://api.europeana.eu/record/2051922/data_euscreenXL_4444131.json?wskey=uvexassa",
+    "previewNoDistribute": false,
+    "provider": [
+      "EUscreen"
+    ],
+    "rights": [
+      "http://rightsstatements.org/vocab/InC/1.0/"
+    ],
+    "score": 28.323345,
+    "timestamp": 1752046221856,
+    "timestamp_created": "2015-12-11T08:28:27.510Z",
+    "timestamp_created_epoch": 1449822507510,
+    "timestamp_update": "2021-12-03T08:36:11.538Z",
+    "timestamp_update_epoch": 1638520571538,
+    "title": [
+      "More control and more rigour",
+      "Telenotícies"
+    ],
+    "type": "VIDEO",
+    "ugc": [
+      false
+    ],
+    "year": [
+      "2013"
+    ]
+  },
+  {
+    "completeness": 10,
+    "country": [
+      "Spain"
+    ],
+    "dataProvider": [
+      "TV3 Catalan Television"
+    ],
+    "dcDescription": [
+      "With former referee Sergi Albert, former player Victor Muñoz and director of the newspaper\\ ‘Now\\’ Carles Capdevila, we discuss the arbitration of the Spanish Football League. The arbitral errors and the supposed aids that Madrid is receiving have been one of the most current issues of the football week."
+    ],
+    "dcDescriptionLangAware": {
+      "en": [
+        "With former referee Sergi Albert, former player Victor Muñoz and director of the newspaper\\ ‘Now\\’ Carles Capdevila, we discuss the arbitration of the Spanish Football League. The arbitral errors and the supposed aids that Madrid is receiving have been one of the most current issues of the football week."
+      ]
+    },
+    "dcLanguage": [
+      "Catalan; Valencian"
+    ],
+    "dcLanguageLangAware": {
+      "def": [
+        "Catalan; Valencian"
+      ]
+    },
+    "dcTitleLangAware": {
+      "def": [
+        "Hat-trick Barça"
+      ],
+      "en": [
+        "Hat-trick Barça: An arbitral will under suspicion"
+      ]
+    },
+    "edmDatasetName": [
+      "2051922_TV3_Television_of_Catalonia"
+    ],
+    "edmIsShownAt": [
+      "http://www.ccma.cat/tv3/alacarta/programa/titol/video/3996170/"
+    ],
+    "edmIsShownBy": [
+      "http://www.ccma.cat/tv3/alacarta/programa/titol/video/3996170/"
+    ],
+    "edmPlaceAltLabel": [
+      {
+        "def": "Madrid, Spanien"
+      },
+      {
+        "def": "Madrid (kommun i Spanien, Madrid, Provincia de Madrid, lat 40,49, long -3,68)"
+      },
+      {
+        "def": "Madrid, Spain"
+      },
+      {
+        "def": "Madrid (Espagne)"
+      }
+    ],
+    "edmPlaceAltLabelLangAware": {
+      "de": [
+        "Madrid, Spanien"
+      ],
+      "sv": [
+        "Madrid (kommun i Spanien, Madrid, Provincia de Madrid, lat 40,49, long -3,68)"
+      ],
+      "en": [
+        "Madrid, Spain"
+      ],
+      "fr": [
+        "Madrid (Espagne)"
+      ]
+    },
+    "edmPlaceLabel": [
+      {
+        "def": "Madrid"
+      },
+      {
+        "def": "Madrid"
+      },
+      {
+        "def": "Мадрид"
+      },
+      {
+        "def": "Madrid"
+      },
+      {
+        "def": "Мадрид"
+      },
+      {
+        "def": "Madridas"
+      },
+      {
+        "def": "Madrid"
+      },
+      {
+        "def": "Madride"
+      },
+      {
+        "def": "Madrid"
+      },
+      {
+        "def": "Madrid"
+      },
+      {
+        "def": "Madrid"
+      },
+      {
+        "def": "Madrid"
+      },
+      {
+        "def": "Maidrid"
+      },
+      {
+        "def": "Madrid"
+      },
+      {
+        "def": "Madrid"
+      },
+      {
+        "def": "Μαδρίτη"
+      },
+      {
+        "def": "Madrid"
+      },
+      {
+        "def": "Madrid"
+      },
+      {
+        "def": "Madrid"
+      },
+      {
+        "def": "Madrid"
+      },
+      {
+        "def": "Madrid"
+      },
+      {
+        "def": "Madrid"
+      },
+      {
+        "def": "Madril"
+      },
+      {
+        "def": "Madryt"
+      },
+      {
+        "def": "Madrid"
+      },
+      {
+        "def": "Madrid"
+      },
+      {
+        "def": "Madrid"
+      }
+    ],
+    "edmPlaceLabelLangAware": {
+      "de": [
+        "Madrid"
+      ],
+      "fi": [
+        "Madrid"
+      ],
+      "ru": [
+        "Мадрид"
+      ],
+      "pt": [
+        "Madrid"
+      ],
+      "bg": [
+        "Мадрид"
+      ],
+      "lt": [
+        "Madridas"
+      ],
+      "hr": [
+        "Madrid"
+      ],
+      "lv": [
+        "Madride"
+      ],
+      "fr": [
+        "Madrid"
+      ],
+      "hu": [
+        "Madrid"
+      ],
+      "sk": [
+        "Madrid"
+      ],
+      "sl": [
+        "Madrid"
+      ],
+      "ga": [
+        "Maidrid"
+      ],
+      "ca": [
+        "Madrid"
+      ],
+      "sv": [
+        "Madrid"
+      ],
+      "el": [
+        "Μαδρίτη"
+      ],
+      "mt": [
+        "Madrid"
+      ],
+      "en": [
+        "Madrid"
+      ],
+      "it": [
+        "Madrid"
+      ],
+      "es": [
+        "Madrid"
+      ],
+      "et": [
+        "Madrid"
+      ],
+      "cs": [
+        "Madrid"
+      ],
+      "eu": [
+        "Madril"
+      ],
+      "pl": [
+        "Madryt"
+      ],
+      "da": [
+        "Madrid"
+      ],
+      "ro": [
+        "Madrid"
+      ],
+      "nl": [
+        "Madrid"
+      ]
+    },
+    "edmPlaceLatitude": [
+      "40.416943"
+    ],
+    "edmPlaceLongitude": [
+      "-3.7033334"
+    ],
+    "edmPreview": [
+      "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fstatics.ccma.cat%2Fmultimedia%2Fjpg%2F1%2F5%2F1331556680251.jpg&type=VIDEO"
+    ],
+    "edmTimespanLabel": [
+      {
+        "def": "2012"
+      },
+      {
+        "def": "2012-03-12"
+      }
+    ],
+    "edmTimespanLabelLangAware": {
+      "zxx": [
+        "2012",
+        "2012-03-12"
+      ]
+    },
+    "europeanaCollectionName": [
+      "2051922_TV3_Television_of_Catalonia"
+    ],
+    "europeanaCompleteness": 10,
+    "guid": "https://www.europeana.eu/item/2051922/data_euscreenXL_3996170?utm_source=api&utm_medium=api&utm_campaign=uvexassa",
+    "id": "/2051922/data_euscreenXL_3996170",
+    "index": 0,
+    "language": [
+      "ca"
+    ],
+    "link": "https://api.europeana.eu/record/2051922/data_euscreenXL_3996170.json?wskey=uvexassa",
+    "previewNoDistribute": false,
+    "provider": [
+      "EUscreen"
+    ],
+    "rights": [
+      "http://rightsstatements.org/vocab/InC/1.0/"
+    ],
+    "score": 28.847599,
+    "timestamp": 1752046187259,
+    "timestamp_created": "2015-12-11T08:24:20.450Z",
+    "timestamp_created_epoch": 1449822260450,
+    "timestamp_update": "2021-12-03T08:36:11.538Z",
+    "timestamp_update_epoch": 1638520571538,
+    "title": [
+      "Hat-trick Barça: An arbitral will under suspicion",
+      "Hat-trick Barça"
+    ],
+    "type": "VIDEO",
+    "ugc": [
+      false
+    ],
+    "year": [
+      "2012"
+    ]
+  },
+  {
+    "completeness": 10,
+    "country": [
+      "Spain"
+    ],
+    "dataProvider": [
+      "TV3 Catalan Television"
+    ],
+    "dcDescription": [
+      "With this week’s guests talk about Messi programme in the week has 5 goals in a Champions League match and 2 yesterday against Racing. How far can the little Argentine star go? In this video we can also see the presentation of the new book by journalist Joan Valls, who has interviewed several players of the Spanish League without talking about football."
+    ],
+    "dcDescriptionLangAware": {
+      "en": [
+        "With this week’s guests talk about Messi programme in the week has 5 goals in a Champions League match and 2 yesterday against Racing. How far can the little Argentine star go? In this video we can also see the presentation of the new book by journalist Joan Valls, who has interviewed several players of the Spanish League without talking about football."
+      ]
+    },
+    "dcLanguage": [
+      "Catalan; Valencian"
+    ],
+    "dcLanguageLangAware": {
+      "def": [
+        "Catalan; Valencian"
+      ]
+    },
+    "dcTitleLangAware": {
+      "def": [
+        "Hat-trick Barça"
+      ],
+      "en": [
+        "Hat-trick Barça: Messi’s excellence"
+      ]
+    },
+    "edmDatasetName": [
+      "2051922_TV3_Television_of_Catalonia"
+    ],
+    "edmIsShownAt": [
+      "http://www.ccma.cat/tv3/alacarta/programa/titol/video/3996150/"
+    ],
+    "edmIsShownBy": [
+      "http://www.ccma.cat/tv3/alacarta/programa/titol/video/3996150/"
+    ],
+    "edmPreview": [
+      "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fstatics.ccma.cat%2Fmultimedia%2Fjpg%2F7%2F9%2F1331556390197.jpg&type=VIDEO"
+    ],
+    "edmTimespanLabel": [
+      {
+        "def": "2012"
+      },
+      {
+        "def": "2012-03-12"
+      }
+    ],
+    "edmTimespanLabelLangAware": {
+      "zxx": [
+        "2012",
+        "2012-03-12"
+      ]
+    },
+    "europeanaCollectionName": [
+      "2051922_TV3_Television_of_Catalonia"
+    ],
+    "europeanaCompleteness": 10,
+    "guid": "https://www.europeana.eu/item/2051922/data_euscreenXL_3996150?utm_source=api&utm_medium=api&utm_campaign=uvexassa",
+    "id": "/2051922/data_euscreenXL_3996150",
+    "index": 0,
+    "language": [
+      "ca"
+    ],
+    "link": "https://api.europeana.eu/record/2051922/data_euscreenXL_3996150.json?wskey=uvexassa",
+    "previewNoDistribute": false,
+    "provider": [
+      "EUscreen"
+    ],
+    "rights": [
+      "http://rightsstatements.org/vocab/InC/1.0/"
+    ],
+    "score": 30.242363,
+    "timestamp": 1752046187190,
+    "timestamp_created": "2015-12-11T08:24:20.436Z",
+    "timestamp_created_epoch": 1449822260436,
+    "timestamp_update": "2021-12-03T08:36:11.538Z",
+    "timestamp_update_epoch": 1638520571538,
+    "title": [
+      "Hat-trick Barça",
+      "Hat-trick Barça: Messi’s excellence"
+    ],
+    "type": "VIDEO",
+    "ugc": [
+      false
+    ],
+    "year": [
+      "2012"
+    ]
+  },
+  {
+    "completeness": 10,
+    "country": [
+      "Spain"
+    ],
+    "dataProvider": [
+      "TV3 Catalan Television"
+    ],
+    "dcDescription": [
+      "If you want to know everything about the history and statistics of the Spanish Football League do not miss BDFutbol.com. Created in 2008 by Victor Solà Girona, this website is the best database in Catalan that can be found on the subject."
+    ],
+    "dcDescriptionLangAware": {
+      "en": [
+        "If you want to know everything about the history and statistics of the Spanish Football League do not miss BDFutbol.com. Created in 2008 by Victor Solà Girona, this website is the best database in Catalan that can be found on the subject."
+      ]
+    },
+    "dcLanguage": [
+      "Catalan; Valencian"
+    ],
+    "dcLanguageLangAware": {
+      "def": [
+        "Catalan; Valencian"
+      ]
+    },
+    "dcTitleLangAware": {
+      "def": [
+        "Telenotícies"
+      ],
+      "en": [
+        "All about the Spanish Football League"
+      ]
+    },
+    "edmDatasetName": [
+      "2051922_TV3_Television_of_Catalonia"
+    ],
+    "edmIsShownAt": [
+      "http://www.ccma.cat/tv3/alacarta/programa/titol/video/3499431/"
+    ],
+    "edmIsShownBy": [
+      "http://www.ccma.cat/tv3/alacarta/programa/titol/video/3499431/"
+    ],
+    "edmPreview": [
+      "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fstatics.ccma.cat%2Fmultimedia%2Fjpg%2F9%2F7%2F1304258819279.jpg&type=VIDEO"
+    ],
+    "edmTimespanLabel": [
+      {
+        "def": "2011"
+      },
+      {
+        "def": "2011-05-01"
+      }
+    ],
+    "edmTimespanLabelLangAware": {
+      "zxx": [
+        "2011",
+        "2011-05-01"
+      ]
+    },
+    "europeanaCollectionName": [
+      "2051922_TV3_Television_of_Catalonia"
+    ],
+    "europeanaCompleteness": 10,
+    "guid": "https://www.europeana.eu/item/2051922/data_euscreenXL_3499431?utm_source=api&utm_medium=api&utm_campaign=uvexassa",
+    "id": "/2051922/data_euscreenXL_3499431",
+    "index": 0,
+    "language": [
+      "ca"
+    ],
+    "link": "https://api.europeana.eu/record/2051922/data_euscreenXL_3499431.json?wskey=uvexassa",
+    "previewNoDistribute": false,
+    "provider": [
+      "EUscreen"
+    ],
+    "rights": [
+      "http://rightsstatements.org/vocab/InC/1.0/"
+    ],
+    "score": 152.48193,
+    "timestamp": 1752046150404,
+    "timestamp_created": "2015-12-11T08:22:13.166Z",
+    "timestamp_created_epoch": 1449822133166,
+    "timestamp_update": "2021-12-03T08:36:11.538Z",
+    "timestamp_update_epoch": 1638520571538,
+    "title": [
+      "Telenotícies",
+      "All about the Spanish Football League"
+    ],
+    "type": "VIDEO",
+    "ugc": [
+      false
+    ],
+    "year": [
+      "2011"
+    ]
+  }
+]
